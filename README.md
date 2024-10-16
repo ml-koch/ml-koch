@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ml-koch
-- 👀 I’m interested in shiny App development, machine learning methods in Neuroscience and data science in general.
-- 🌱 I’m currently learning python, R Shiny and machine learning basics.
+- 👀 I’m interested in neuroscience, computer science and biology.
 - 📫 You can reach me via this profile. 
 
 <!---
